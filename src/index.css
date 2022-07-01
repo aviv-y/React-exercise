@@ -5,6 +5,13 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+    background-image: url("https://img.freepik.com/free-vector/abstract-blue-geometric-shapes-background_1035-17545.jpg?t=st=1656447590~exp=1656448190~hmac=1507de363c256b544c317fe3d98a012370fd79f95da796d9e550c5c2471ccef2&w=740")!important;
+    background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: center;
+      background-size: cover;
+      overflow: hidden;
+      position: relative;
 }
 
 code {

@@ -1,0 +1,87 @@
+.dialogBox {
+
+    display: inline-block;
+
+}
+
+.btn-primary {
+    background-color: #ffffff00;
+    color: black;
+    border: none;
+}
+
+.btn-primary:hover,
+.btn-primary:target {
+    background-color: #9cbddf00;
+    color: black;
+    border: none;
+}
+
+.btn-primary:focus {
+    background-color: #9cbddf00;
+    color: black;
+    border: none;
+}
+
+.tblU {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.nameUser {
+    cursor: pointer;
+}
+
+.containP {
+    text-align: center;
+    margin-left: auto;
+        margin-right: auto;
+        overflow: auto;
+        scrollbar-width: none;
+        height: 100%;
+        position: fixed;
+        padding-bottom: 15% !important;
+
+}
+
+.cardP {
+    height: 200px;
+    display: inline-block;
+    overflow: scroll;
+    scrollbar-width: none;
+    margin: 1.5%;
+    text-align: left;
+
+}
+.postes::-webkit-scrollbar,
+.cardP::-webkit-scrollbar {
+    display: none;
+
+}
+
+.CardHP {
+    position: sticky;
+
+}
+#addBtn{
+    right:0;
+    margin-left: 90%;
+}
+.w-auto{
+    width: 100% !important;
+}
+.header{
+    margin: 5%;
+}
+
+#return{
+right:0;
+margin-left: 90%;
+display: inline-block;
+cursor: pointer;
+}
+/* #tHeader{
+    display: inline-block;
+} */
